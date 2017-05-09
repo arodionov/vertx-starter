@@ -8,7 +8,7 @@ This project was created based on article ['Reactive Microservices with Eclipse 
 
 *client*
 * *VertxRunner* - starts Vertx Rest API client (MyRestAPIClient) from *main* method
-* *MyRestAPIClientVerticle* - Vertx Rest API client (MyRestAPIClient) as a Verticle
+* *MyRestAPIClientVerticle* - starts Vertx Rest API client (MyRestAPIClient) as a Verticle
 * *MyRestAPIClient* - contains code for Rest API client
 
 *starter*
